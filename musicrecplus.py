@@ -6,7 +6,7 @@ November 20, 2020
 """
 
 from cs115 import *
-prefName = "musicrecplus_ex2_a.txt"
+prefName = "musicrecplus_ex2_b.txt"
 
 def loadUsers(fileName):
     "Creates and prints a dictionary of artists liked by specific users from text file, fileName"
