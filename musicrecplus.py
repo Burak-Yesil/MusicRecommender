@@ -1,7 +1,6 @@
 """
 Burak Yesil & Frank Orlando
 We pledge our honor that we have abided by the Stevens Honor System
-HW 10 - CS 115 A
 November 20, 2020
 """
 
